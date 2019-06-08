@@ -11,7 +11,7 @@ class Calculadora():
         return resultado
 
     def lanzar_grafo(self):
-        os.system('python D:\GtiHub\calculadora_graficadora\grafos.py')
+        os.system('python grafos.py')
 
 
 
