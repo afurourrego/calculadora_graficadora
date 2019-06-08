@@ -34,7 +34,7 @@ class Calculadora():
         self.input_text.set(resultado)
 
     def grafos(self):
-        print("prueba grafos")
+        self.conexion.lanzar_grafo()
 
 
 
